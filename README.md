@@ -22,7 +22,7 @@
 
 1. Clone this repository or download the `intelx-credentials-extractor.sh` script.
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone [https://github.com/yourusername/repository-name.git](https://github.com/hamzairshad02/intelx-credentials-extractor.git)
    ```
 
 2. Place the script in the same folder as your extracted IntelX .zip results folder. It should look something like this:
