@@ -1,6 +1,21 @@
 # IntelX Credential Extractor
 
-**IntelX Credential Extractor** is a tool designed to process IntelX search results, which you download as a `.zip` file from IntelX and extract to a folder. This script will then extract and organize email/username and password pairs present within the IntelX search results files. It filters domain-specific credentials, removes duplicates, and generates multiple output files in various formats (CSV, TXT, etc.) for easy analysis.
+**IntelX Credential Extractor** is a tool designed to process IntelX search results, which you download as a .zip file from IntelX and extract to a folder. This script will then extract and organize email/username and password pairs present within the IntelX search results files. It filters domain-specific credentials, removes duplicates, and generates multiple output files in various formats (CSV, TXT, etc.) for easy analysis.
+
+🚨 **This project has now been superseded with a more advanced version made with Python: [IntelX Data Extractor](https://github.com/hamzairshad02/IntelXDataExtractor).** 🚨  
+
+## New Version: [IntelX Data Extractor](https://github.com/hamzairshad02/IntelXDataExtractor)  
+
+The **IntelX Credential Extractor** was a tool designed to process `.zip` search result archives from **Intelligence X**, extracting and organizing email/username and password pairs. It filtered domain-specific credentials, removed duplicates, and generated multiple output files for easier analysis.  
+
+However, this tool has now been **superseded by a more efficient and feature-rich version**, which includes:  
+
+✅ **Better metadata extraction** – Adds filename, date, phone, address, and file details  
+✅ **Structured output** – Generates Excel and TXT files for better usability  
+✅ **Cross-platform support** – Works on Windows, macOS, and Linux  
+
+For the latest version, **please use the new tool:**  
+🔗 **[IntelX Data Extractor](https://github.com/hamzairshad02/IntelXDataExtractor)**  
 
 ## Features
 - **Search** for domain-specific email/username and password pairs within IntelX search result files.
